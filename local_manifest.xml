@@ -13,5 +13,6 @@
 	<project revision="13" remote="kanging" name="android_hardware_xiaomi" path="hardware/xiaomi" clone-depth="1" />
 
   <project revision="arrow-13.1" remote="local" name="android_kernel_xiaomi_vayu" path="kernel/xiaomi/vayu" clone-depth="1" />
+<project revision="master" remote="gitkang" name="clang-r450784d" path="prebuilts/clang/host/linux-x86/clang-r450784d" clone-depth="1" />
 
   </manifest>
