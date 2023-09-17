@@ -18,5 +18,5 @@
 	<!-- modifications -->
 	<remove-project name="LineageOS/android_frameworks_base" />
   
-<project path="frameworks/base" name="android_frameworks_base.git" remote="local" revision="lineage-20.0" />
+<project path="frameworks/base" name="android_frameworks_base.git" remote="local" revision="lineage-20.0" clone-depth="1" />
   </manifest>
