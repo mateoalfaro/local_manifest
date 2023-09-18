@@ -8,13 +8,15 @@
       <!-- device -->
 
   <!-- Trees -->
-<project revision="lineage" remote="local" name="device_xiaomi_vayu" path="device/xiaomi/vayu" clone-depth="1" />
-	<project revision="arrow-13.1" remote="local" name="android_vendor_xiaomi_vayu" path="vendor/xiaomi/vayu" clone-depth="1" />
-	<project revision="13" remote="kanging" name="android_hardware_xiaomi" path="hardware/xiaomi" clone-depth="1" />
+<project revision="lineage" remote="local" name="device_xiaomi_vayu" path="device/xiaomi/vayu" />
+	<project revision="arrow-13.1" remote="local" name="android_vendor_xiaomi_vayu" path="vendor/xiaomi/vayu" />
+	<project revision="13" remote="kanging" name="android_hardware_xiaomi" path="hardware/xiaomi" />
 
-  <project revision="arrow-13.1" remote="local" name="android_kernel_xiaomi_vayu" path="kernel/xiaomi/vayu" clone-depth="1" />
-<project revision="master" remote="gitkang" name="clang-r450784d" path="prebuilts/clang/host/linux-x86/clang-r450784d" clone-depth="1" />
+  <project revision="arrow-13.1" remote="local" name="android_kernel_xiaomi_vayu" path="kernel/xiaomi/vayu" />
+<project revision="master" remote="gitkang" name="clang-r450784d" path="prebuilts/clang/host/linux-x86/clang-r450784d" />
 
 	<!-- modifications -->
+	<remove-project name="LineageOS/android_frameworks_base" />
+	<project path="frameworks/base" name="android_frameworks_base" remote="local" revision="lineage-20.0" />
 
   </manifest>
