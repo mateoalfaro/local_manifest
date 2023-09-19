@@ -15,6 +15,5 @@
   <project revision="arrow-13.1" remote="local" name="android_kernel_xiaomi_vayu" path="kernel/xiaomi/vayu" />
 <project revision="master" remote="gitkang" name="clang-r450784d" path="prebuilts/clang/host/linux-x86/clang-r450784d" />
 
-	<!-- modifications -->
 	
   </manifest>
