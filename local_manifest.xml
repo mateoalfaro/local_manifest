@@ -16,7 +16,5 @@
 <project revision="master" remote="gitkang" name="clang-r450784d" path="prebuilts/clang/host/linux-x86/clang-r450784d" />
 
 	<!-- modifications -->
-	<remove-project name="LineageOS/android_frameworks_base" />
-	<project path="frameworks/base" name="android_frameworks_base" remote="local" revision="lineage-20.0" />
-
+	
   </manifest>
