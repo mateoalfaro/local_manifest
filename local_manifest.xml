@@ -9,7 +9,7 @@
       <!-- device -->
 
   <!-- Trees -->
-<project revision="thirteen" remote="local" name="device_xiaomi_vayu" path="device/xiaomi/vayu" clone-depth="1" />
+<project revision="thirteen-plus" remote="local" name="device_xiaomi_vayu" path="device/xiaomi/vayu" clone-depth="1" />
 	<project revision="thirteen" remote="local" name="vendor_xiaomi_vayu" path="vendor/xiaomi/vayu" clone-depth="1" />
 	<project revision="13" remote="kanging" name="android_hardware_xiaomi" path="hardware/xiaomi" clone-depth="1" />
 
