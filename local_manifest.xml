@@ -3,14 +3,14 @@
   <!-- remote source -->
   <remote name="kanging" fetch="https://github.com/sanjeevstunner" />
   <remote name="local" fetch="https://github.com/mateoalfaro"  />
-  <remote name="gitkang" fetch="https://gitlab.com/sanjeevstunner" />
-  
+  <remote name="ksu" fetch="https://github.com/orges" />
+  <remote name="common" fetch="https://github.com/xiaomi-sm8150-devs" />
 
   <!-- device Tree -->
 <project revision="lineage" remote="local" name="android_device_xiaomi_vayu" path="device/xiaomi/vayu" clone-depth="1" />
 	<project revision="arrow-13.1" remote="local" name="android_vendor_xiaomi_vayu" path="vendor/xiaomi/vayu" clone-depth="1" />
 	<project revision="13" remote="kanging" name="android_hardware_xiaomi" path="hardware/xiaomi" clone-depth="1" />
-	<project revision="arrow-13.1" remote="local" name="android_kernel_xiaomi_vayu" path="kernel/xiaomi/vayu" clone-depth="1" />
-
+	<project revision="uvite-orges" remote="ksu" name="android_kernel_xiaomi_vayu" path="kernel/xiaomi/vayu" clone-depth="1" />
+         <project name="android_device_xiaomi_sm8150-common" path="device/xiaomi/sm8150-common"  revision="lineage-20" />
 	
   </manifest>
