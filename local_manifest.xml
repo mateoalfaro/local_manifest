@@ -9,7 +9,7 @@
      <!-- Device Tree -->
      <project name="android_device_xiaomi_vayu"        path="device/xiaomi/vayu"        remote="tree"  revision="fourteen" />
      <project name="android_device_xiaomi_sm8150-common" path="device/xiaomi/sm8150-common" remote="Me"  revision="Lineage-20" />
-     <project name="vendor_xiaomi_vayu"               path="vendor/xiaomi"                   remote="Me" revision="thirteen" clone-depth="1" />
+     <project name="vendor_xiaomi_vayu"               path="vendor/xiaomi/vayu"                   remote="Me" revision="thirteen" clone-depth="1" />
      <project name="android_kernel_xiaomi_vayu"        path="kernel/xiaomi/vayu"        remote="kernel"  revision="uvite-orges" clone-depth="1" />
  
      <!-- HALs -->
