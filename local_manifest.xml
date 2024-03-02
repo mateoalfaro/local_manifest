@@ -12,9 +12,6 @@
  
  <!--Kernel -->
  <project path="kernel/xiaomi/vayu" name="mateoalfaro/Android_kernel_xiaomi_vayu" remote="git" revision="stock" />
- 
- <!--Hardware -->
- <project path="hardware/xiaomi" name="bananadroid/android_hardware_xiaomi" remote="git" revision="14" />
 
  <!--extra -->
  <project path="vendor/xiaomi/miuicamera" name="mateoalfaro/vendor_xiaomi_miuicamera" remote="git" revision="base" />
