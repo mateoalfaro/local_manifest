@@ -5,7 +5,7 @@
             fetch="https://github.com"
             clone-depth="1" />
  <!--Device Tree -->
- <project path="device/xiaomi/vayu" name="mateoalfaro/device_xiaomi_vayu" remote="git" revision="pixys" />
+ <project path="device/xiaomi/vayu" name="mateoalfaro/device_xiaomi_vayu" remote="git" revision="banana-vayu" />
 
  <!--Vendor -->
  <project path="vendor/xiaomi/vayu" name="mateoalfaro/vendor_xiaomi_vayu" remote="git" revision="fourteen" />
@@ -14,7 +14,7 @@
  <project path="kernel/xiaomi/vayu" name="mateoalfaro/Android_kernel_xiaomi_vayu" remote="git" revision="stock" />
  
  <!--Hardware -->
- <project path="hardware/xiaomi" name="PixysOS-Devices/hardware_xiaomi" remote="git" revision="fourteen" />
+ <project path="hardware/xiaomi" name="bananadroid/android_hardware_xiaomi" remote="git" revision="14" />
 
  <!--extra -->
  <project path="vendor/xiaomi/miuicamera" name="mateoalfaro/vendor_xiaomi_miuicamera" remote="git" revision="base" />
