@@ -8,7 +8,7 @@
  <project path="device/xiaomi/vayu" name="mateoalfaro/device_xiaomi_vayu" remote="git" revision="pixys" />
 
  <!--Vendor -->
- <project path="vendor/xiaomi/vayu" name="mateoalfaro/vendor_xiaomi_vayu" remote="git" revision="Unity" />
+ <project path="vendor/xiaomi/vayu" name="mateoalfaro/vendor_xiaomi_vayu" remote="git" revision="fourteen" />
  
  <!--Kernel -->
  <project path="kernel/xiaomi/vayu" name="mateoalfaro/Android_kernel_xiaomi_vayu" remote="git" revision="stock" />
