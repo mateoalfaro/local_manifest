@@ -11,7 +11,7 @@
  <project path="vendor/xiaomi/vayu" name="mateoalfaro/vendor_xiaomi_vayu" remote="git" revision="fourteen" />
  
  <!--Kernel -->
- <project path="kernel/xiaomi/vayu" name="mateoalfaro/Android_kernel_xiaomi_vayu" remote="git" revision="stock" />
+ <project path="kernel/xiaomi/vayu" name="elizabethangelalorenza/kernel_xiaomi_vayu" remote="git" revision="udc" />
  
  <!--Hardware -->
  <project path="hardware/xiaomi" name="PixysOS-Devices/hardware_xiaomi" remote="git" revision="fourteen" />
