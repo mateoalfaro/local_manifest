@@ -11,9 +11,9 @@
  <project path="vendor/xiaomi/vayu" name="mateoalfaro/vendor_xiaomi_vayu" remote="git" revision="fourteen" />
  
  <!--Kernel -->
- <project path="kernel/xiaomi/vayu" name="elizabethangelalorenza/kernel_xiaomi_vayu" remote="git" revision="udc" />
+ <project path="kernel/xiaomi/vayu" name="mateoalfaro/kernel_xiaomi_vayu" remote="git" revision="astral-stock" />
 
  <!--extra -->
- <project path="vendor/xiaomi/miuicamera" name="mateoalfaro/vendor_xiaomi_miuicamera" remote="git" revision="base" />
+ <project path="vendor/xiaomi/miuicamera" name="mateoalfaro/vendor_xiaomi_miuicamera" remote="git" revision="leica" />
 	
 </manifest>
