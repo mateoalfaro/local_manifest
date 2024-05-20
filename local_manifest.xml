@@ -4,7 +4,10 @@
     <remote name="git"
             fetch="https://github.com"
             clone-depth="1" />
- <!--Device Tree -->
+    <remote name="lab"
+	    fetch="https://gitlab.com" />
+ 
+<!--Device Tree -->
  <project path="device/xiaomi/vayu" name="mateoalfaro/device_xiaomi_vayu" remote="git" revision="pixys-spatial" />
 
  <!--Vendor -->
@@ -17,6 +20,6 @@
  <project path="hardware/xiaomi" name="PixysOS-Devices/hardware_xiaomi" remote="git" revision="fourteen" />
 
  <!--Camera -->
- <project path="vendor/xiaomi/vayu-gcam" name="mateoalfaro/vendor_xiaomi_vayu-gcam" remote="git" revision="main" />
+ <project path="vendor/xiaomi/vayu-miuicamera" name="dogpoopy/vendor_xiaomi_vayu-miuicamera" remote="lab" revision="main" />
 	
 </manifest>
