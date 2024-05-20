@@ -20,6 +20,6 @@
  <project path="hardware/xiaomi" name="PixysOS-Devices/hardware_xiaomi" remote="git" revision="fourteen" />
 
  <!--Camera -->
- <project path="vendor/xiaomi/vayu-miuicamera" name="dogpoopy/vendor_xiaomi_vayu-miuicamera" remote="lab" revision="main" />
+ <project path="vendor/xiaomi/vayu-miuicamera" name="aosp-realm/vendor_xiaomi_vayu-miuicamera" remote="git" revision="main" />
 	
 </manifest>
