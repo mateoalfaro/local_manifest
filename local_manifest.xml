@@ -8,7 +8,7 @@
 	    fetch="https://gitlab.com" />
  
 <!--Device Tree -->
- <project path="device/xiaomi/vayu" name="mateoalfaro/device_xiaomi_vayu" remote="git" revision="pixys-spatial" />
+ <project path="device/xiaomi/vayu" name="mateoalfaro/device_xiaomi_vayu" remote="git" revision="PixelOS" />
 
  <!--Vendor -->
  <project path="vendor/xiaomi/vayu" name="mateoalfaro/vendor_xiaomi_vayu" remote="git" revision="fourteen" />
