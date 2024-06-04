@@ -18,5 +18,8 @@
  
  <!--Attestation -->
  <project path="vendor/extra" name="mateoalfaro/vendor_extra" remote="git" revision="master" />
+
+ <!--Camera -->
+ <project path="vendor/xiaomi/vayu-miuicamera" name="mateoalfaro/vendor_xiaomi_vayu-miuicamera" remote="git" revision="main" />
 	
 </manifest>
