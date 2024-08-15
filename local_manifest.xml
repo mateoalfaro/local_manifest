@@ -5,7 +5,7 @@
             fetch="https://github.com"
             clone-depth="1" />
  <!--Device Tree -->
- <project path="device/xiaomi/vayu" name="mateoalfaro/device_xiaomi_vayu" remote="git" revision="PixelOS" />
+ <project path="device/xiaomi/vayu" name="mateoalfaro/device_xiaomi_vayu" remote="git" revision="TPP" />
 
  <!--Vendor -->
  <project path="vendor/xiaomi/vayu" name="mateoalfaro/vendor_xiaomi_vayu" remote="git" revision="fourteen" />
